@@ -1,0 +1,6 @@
+mne
+pandas
+matplotlib
+pyautogui
+openpyxl
+pywin32
